@@ -1,2 +1,2 @@
-Learning Git today - edited directly on master branch
+Learning Git today - resolved from both master and feature-conflict edits
 Yes, this is how we study each concept to make my self stronger
