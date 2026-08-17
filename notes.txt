@@ -1,6 +1,2 @@
 Learning Git today - resolved from both master and feature-conflict edits
 Yes, this is how we study each concept to make my self stronger
-
-
-
-the hwork is a hwork until that is completed
