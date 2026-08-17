@@ -1,2 +1,5 @@
 Learning Git today - resolved from both master and feature-conflict edits
 Yes, this is how we study each concept to make my self stronger
+
+
+We had added a lot more files, which we have not entered here
